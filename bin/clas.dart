@@ -21,6 +21,7 @@ class ashwin {
      var input2=stdin.readLineSync();
      var num1= int.parse(input1!);
      var num2=int.parse(input2!);
-    ak.Akshay(num1,num2);
+    int s= ak.Akshay(num1,num2);
+    print("the sum is $s");
   }
 }
