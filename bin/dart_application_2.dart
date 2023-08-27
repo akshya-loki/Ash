@@ -10,7 +10,7 @@ void main()
 {
   var shilpa=new ashwin();//object
   shilpa.GetName();
-  shilpa.PrintName();
+  shilpa.NumIn();
 
 }
 
