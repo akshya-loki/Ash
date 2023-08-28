@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'class1.dart';
 
-class ashwin {
+class Ashwin {
   void getName() {
     print("enter a name");
     var name = stdin.readLineSync();
